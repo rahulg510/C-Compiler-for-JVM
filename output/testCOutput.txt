@@ -1,0 +1,12 @@
+####################
+# Team FreeAssange #
+####################
+Max Value should be 4: 4
+Char should be b: b
+String is: call within a function!
+0 1 2 3 4
+String is: hello, testing..
+String is: hello, testing..
+String is: hello, testing..
+
+[13 milliseconds execution time.]
